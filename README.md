@@ -1,2 +1,2 @@
-# django-tutorial
-Work from learning django. 
+# django-blog
+Simple blog. 
